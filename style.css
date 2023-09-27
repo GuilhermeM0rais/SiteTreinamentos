@@ -34,8 +34,9 @@ img, ul {
         body {
             font-family: Arial, sans-serif;
         }
+        
         .container {
-            max-width: 400px;
+            max-width: 80%;
             margin: 0 auto;
             padding: 20px;
         }
@@ -45,6 +46,7 @@ img, ul {
         label {
             display: block;
             font-weight: bold;
+       
         }
         input[type="text"],
         input[type="email"],
